@@ -6,3 +6,6 @@ Amazon-like storefront with the MySQL skills you learned this week. The app will
 
 ![Image of Node App showing products from database](https://github.com/kkasperek/bamazon/blob/master/images/products-listed.jpg?raw=true)
       
+![Image of products being selected when there is enough in stock](https://github.com/kkasperek/bamazon/blob/master/images/user-input-not-enough-stock.jpg?raw=true)
+
+![Image of insufficient stock quantity](https://github.com/kkasperek/bamazon/blob/master/images/user-input-not-enough-stock.jpg?raw=true)
